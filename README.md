@@ -28,5 +28,5 @@ Developed using **HTML, CSS** for the **frontend**.
 
 
 ## 🖼️ Output of the Project
-(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg)
+https://likhitha666.ccbp.tech/
 <br><br>
