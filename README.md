@@ -23,3 +23,10 @@ Developed using **HTML, CSS** for the **frontend**.
 
 ## 🔧 Technologies Used
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+
+---
+
+
+## 🖼️ Output of the Project
+(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg)
+<br><br>
