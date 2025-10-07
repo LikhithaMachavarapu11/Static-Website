@@ -4,7 +4,7 @@
 
 **Tourism Explorer** is a website designed for travel enthusiasts **user-friendly**. The platform includes features such as **plan trips, explore destinations and book tours**. 
 
-Developed using **HTML, CSS** for the **frontend**.
+Developed using **HTML, CSS, Bootstrap** for the **frontend**.
 <br>
 
 ---
@@ -22,7 +22,7 @@ Developed using **HTML, CSS** for the **frontend**.
 
 
 ## 🔧 Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Frontend:** HTML, CSS, Bootstrap
 
 ---
 
