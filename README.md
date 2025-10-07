@@ -28,5 +28,5 @@ Developed using **HTML, CSS** for the **frontend**.
 
 
 ## 🖼️ Output of the Project
-https://likhitha666.ccbp.tech/
+https://likhitha222.ccbp.tech/
 <br><br>
